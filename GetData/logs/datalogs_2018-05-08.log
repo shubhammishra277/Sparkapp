@@ -1,0 +1,95 @@
+2018-05-08 16:55:23,243  - INFO - arguemts parsed from command line are:{'username': 'shubham', 'items': '20', 'platformname': None, 'pages': 'twitter', 'search_string': 'Apache Spark'} 
+2018-05-08 16:56:26,342  - INFO - arguemts parsed from command line are:{'username': 'shubham', 'items': '20', 'platformname': 'twitter', 'pages': 0, 'search_string': 'Apache Spark'} 
+2018-05-08 16:56:26,343  - INFO - succesful authentication with twitter
+2018-05-08 16:56:27,982  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 11:22:31,status.user.id:4153160533,status.user.name:iamshaily,status.text:Top 50 Apache Spark Interview Questions &amp; Answers https://t.co/AOvTQC6pLz #BigData @Datascience__,expanded_url:http://zpy.io/3fe5c440
+
+
+
+2018-05-08 16:56:27,983  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 11:22:30,status.user.id:815169124322201600,status.user.name:Data science,status.text:Top 50 Apache Spark Interview Questions &amp; Answers  https://t.co/2NkAZt3m57 #bigdata @Datascience__,expanded_url:http://zpy.io/3fe5c440
+
+
+
+2018-05-08 16:56:27,985  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 10:59:32,status.user.id:879291422247190528,status.user.name:DevXtec,status.text:RT @hdiessner: Why choose Apache #Spark over #Hadoop for your #BigData project? https://t.co/fROzHNKZ0r,expanded_url:http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:719615
+
+
+
+2018-05-08 16:56:27,986  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 10:42:30,status.user.id:815169124322201600,status.user.name:Data science,status.text:Apache Spark 2.x Machine Learning Cookbook: Over 100 Recipes To Simplify Machine Learning Model Implementations Wit… https://t.co/jFHI4ddTR7,expanded_url:https://twitter.com/i/web/status/993803321076015104
+
+
+
+2018-05-08 16:56:27,986  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 10:37:33,status.user.id:974237479476772864,status.user.name:Nepal's 1st Online IT Training Provider,status.text:https://t.co/kCM7IG6vcB https://t.co/at3jaU2CGt,expanded_url:http://www.bsaiacademy.com/apache-spark-and-scala/
+
+
+
+2018-05-08 16:56:27,988  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 10:10:15,status.user.id:64165215,status.user.name:Herwig Diessner,status.text:Why choose Apache #Spark over #Hadoop for your #BigData project? https://t.co/fROzHNKZ0r,expanded_url:http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:719615
+
+
+
+2018-05-08 16:56:27,989  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 10:10:05,status.user.id:44103681,status.user.name:Wilfried Hoge,status.text:Why choose Apache #Spark over #Hadoop for your #BigData project? https://t.co/90AvRNJKGQ,expanded_url:http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:719615
+
+
+
+2018-05-08 16:56:27,989  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 09:59:14,status.user.id:76620046,status.user.name:Synergetics India,status.text:Apache Spark on HDinsight Training
+Have a look: https://t.co/PR9GwZlGJd,expanded_url:https://lnkd.in/fGv3-f4
+
+
+
+2018-05-08 16:56:27,990  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 09:53:32,status.user.id:76620046,status.user.name:Synergetics India,status.text:Apache Spark on HDinsight Training
+Have a look: https://t.co/PR9GwZlGJd https://t.co/PR9GwZlGJd,expanded_url:https://lnkd.in/fGv3-f4
+
+
+
+2018-05-08 16:56:27,991  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 09:52:56,status.user.id:26603208,status.user.name:Dr. Roy Schestowitz (罗伊),status.text:Latest EEE phase: all workloads to #microsoft with its #surveillance (which is purely proprietary) https://t.co/C2yOBrDJkm,expanded_url:https://techobserver.in/article/enterprise-it/microsoft-azure-databricks-powered-by-apache-spark-is-now-available-with-azure-cloud-platform
+
+
+
+2018-05-08 16:56:27,991  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 08:56:34,status.user.id:76620046,status.user.name:Synergetics India,status.text:Apache Spark on HDinsight Training: https://t.co/y3yH3dz5Eg via @YouTube,expanded_url:http://youtu.be/Vjaf3fzFm8U?a
+
+
+
+2018-05-08 16:56:27,992  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 08:48:48,status.user.id:833114376,status.user.name:Pointeau Antoine,status.text:Apprendre à utiliser Apache Spark contre les lapins crétins, un tutoriel de Bruno Doolaegh https://t.co/TIUJ2JxC49… https://t.co/LVTpSUXfFd,expanded_url:http://soat.developpez.com/tutoriels/big-data/apache-spark-contre-lapins-cretins/?utm_source=Sociallymap&utm_medium=Sociallymap&utm_campaign=Sociallymap
+
+
+
+2018-05-08 16:56:28,588  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 08:04:10,status.user.id:728117539784400896,status.user.name:Big Data Dev,status.text:Apache Spark : Best Practices for High Performance
+
+☞ https://t.co/tHDFreNvLz
+
+#bigdata #ApacheSpark https://t.co/Ed5EpfXycA,expanded_url:http://bit.ly/2qlmkYT
+
+
+
+2018-05-08 16:56:28,590  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 08:02:22,status.user.id:729572926492577793,status.user.name:Big Data Fan,status.text:Apache Spark : Best Practices for High Performance
+
+☞ https://t.co/NaMcqPgdu7
+
+#bigdata #ApacheSpark https://t.co/fFpoR98AU8,expanded_url:http://bit.ly/2qlmkYT
+
+
+
+2018-05-08 16:56:28,591  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 08:02:17,status.user.id:728475775091904512,status.user.name:BigData Engineer,status.text:Apache Spark : Best Practices for High Performance
+
+☞ https://t.co/XW1UZZBunN
+
+#bigdata #ApacheSpark https://t.co/xhFqcuIge1,expanded_url:http://bit.ly/2qlmkYT
+
+
+
+2018-05-08 16:56:28,592  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 07:57:14,status.user.id:2272938278,status.user.name:#Digital_Marketing,status.text:What is edge computing?
+
+What is edge computing?  The Verge
+
+Are we in the AI revolution? Microsoft's keynote point… https://t.co/QkkKqbKzTU,expanded_url:https://twitter.com/i/web/status/993761730365919233
+
+
+
+2018-05-08 16:56:28,593  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 07:43:17,status.user.id:815169124322201600,status.user.name:Data science,status.text:Pro Spark Streaming: The Zen Of Real-time Analytics Using Apache Spark  https://t.co/monzvNdBVH #apache-spark @Datascience__,expanded_url:http://zpy.io/045fc320
+
+
+
+2018-05-08 16:56:28,595  - INFO - after parsing the tweet follwing are the details:status.created_at:2018-05-08 06:35:01,status.user.id:14847675,status.user.name:Yves Mulkers,status.text:How to develop machine learning models at scale on Apache Spark and Hadoop #Artificial Intelligence #Hadoop… https://t.co/q8clGtdDqu,expanded_url:https://twitter.com/i/web/status/993741038996066304
+
+
+
+2018-05-08 16:57:35,840  - INFO - arguemts parsed from command line are:{'username': 'shubham', 'platformname': 'github'} 
+2018-05-08 16:58:49,149  - INFO - no. of languages used:17
