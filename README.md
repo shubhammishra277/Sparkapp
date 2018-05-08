@@ -24,4 +24,4 @@ GetData module is used to get data from different platforms.
 
      a.)u:github users for which we have acccess credentials
 
-
+     for further help on parameters,use command "python Githubdata.py --help"
