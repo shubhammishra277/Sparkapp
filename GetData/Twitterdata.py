@@ -32,7 +32,7 @@ class twitterdata(object):
             
     def datagetter(self,query,pages=0,items=0):
         tparsed=[]
-        f=open("Tweet.csv","w+")
+        f=open("Tweet_%s.csv"%self.client_name,"w+")
         f.write("TWEET_CREATION_DATE,TWEET_USER_ID,TWEET_USER_NAME,TWEET_TEXT,URL\n")
         if pages==0:
           for status in self.limit_handled(tweepy.Cursor(self.api.search,q=query,include_entities = True).items(items)):
@@ -82,8 +82,9 @@ if __name__=="__main__":
     parser = optparse.OptionParser(description='Optional app description')
     parser.add_option('-u','--username', 
                     help='enter the username for which you have access token,consumer_token etc.')
-    parser.add_option('-plt','--platformname', 
-                    help='enter the platform for which you have access token,consumer_token etc.')
+    parser.add_option('-t','--platformname', 
+                    help='enter the platform for which you have access token,consumer_token etc.',
+                    default="twitter")
     parser.add_option('-p','--pages', 
                     help='No. of pages ,which you want to search to search string',
                     default=0)

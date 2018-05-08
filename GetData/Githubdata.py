@@ -8,6 +8,7 @@ from pprint import pprint as pp
 from loggermodule import logger_test
 from configgetter import configparser
 import optparse
+from bokeh.themes import default
 
 class githubapi(object):
 
@@ -26,6 +27,7 @@ class githubapi(object):
     def process(self):
         repos_apache=[repo.name for repo in self.user.get_repos()]
         #print repos_apache
+        f=open("Git_%s.txt"%self.clientname,"w+")
         lang=self.repo.get_languages()
         logger_test.info("no. of languages used:%s"%len(lang))
         stargazers=[s for s in self.repo.get_stargazers()]
@@ -36,13 +38,19 @@ class githubapi(object):
         logger_test.info("Total number of repo of the user:%s"%len(repos_apache))
         logger_test.info("Different languages used in the repo:%s"%lang)
         logger_test.info("Top contributors:%s"%k)
+        f.write("Total number of repo of the user:%s\n"%len(repos_apache))
+        f.write("Different languages used in the repo:%s\n"%lang)
+        f.write("Total no. of languages used in repo:%s\n"%len(lang))
+        f.write("Top contributors:%s\n"%k)
+        
         return len(repos_apache),lang,len(lang),k
 if __name__=="__main__":
     parser = optparse.OptionParser(description='Optional app description')
     parser.add_option('-u','--username', 
                     help='enter the username for which you have access token,consumer_token etc.')
     parser.add_option('-p','--platformname', 
-                    help='enter the platform for which you have access token,consumer_token etc.')
+                    help='enter the platform for which you have access token,consumer_token etc.',
+                    default="github")
     try:
       options, args = parser.parse_args()
     except Exception,e:
