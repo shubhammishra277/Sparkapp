@@ -13,7 +13,7 @@ from bokeh.themes import default
 class githubapi(object):
 
     def __init__(self,clientname,platformname,user,repo):
-       #ACCESS_TOKEN="dce09ea4b555192cd85f2a7e6c3d7aa7f1e7703b"
+   
        t1=configparser()
        self.clientname,self.access_token=t1.configparse(clientname,platformname)
        USER="%s"%user
