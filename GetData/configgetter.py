@@ -5,7 +5,6 @@ Created on 19-Feb-2018
 '''
 import sys
 from loggermodule import logger_test
-from loggermodule import logger_test
 from ConfigParser import RawConfigParser
 
 class configparser(object):
