@@ -1,0 +1,4 @@
+Total number of repo of the user:69
+Different languages used in the repo:{u'Groovy': 1793, u'C': 229903, u'Shell': 22282, u'Python': 156714, u'Emacs Lisp': 42, u'Makefile': 149}
+Total no. of languages used in repo:6
+Top contributors:[u'edenhill', u'ctrochalakis', u'ecanzonieri', u'josephwinston', u'kennydo', u'lo', u'JeOam', u'sixninetynine', u'mr1azl', u'johnistan', u'sholsapp', u'jhermann', u'arthurk', u'bryanxtong', u'messense', u'lockwooddev', u'georgijd', u'duilio', u'boncheff', u'chebee7i']
