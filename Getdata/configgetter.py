@@ -5,7 +5,7 @@ Created on 19-Feb-2018
 '''
 import sys
 from loggingmodule.logger import loggermodule
-from ConfigParser import RawConfigParser
+from configparser import RawConfigParser
 
 class configparser(object):
         def __init__(self):
